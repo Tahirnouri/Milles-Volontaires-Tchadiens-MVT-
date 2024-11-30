@@ -11,8 +11,8 @@
     <section id="contact">
         <h2>Contactez-nous</h2>
         <p>Email : contact@mvt-tchad.org</p>
-        <p>Téléphone : +235 99 00 00 00</p>
-        <p>Adresse : N'Djamena, Tchad</p>
+        <p>Téléphone : +14388338700</p>
+        <p>Adresse : Canada, Montreal</p>
     </section>
 
     <footer>
